@@ -1,0 +1,26 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "javascript": {
+    "title": "JavaScript",
+    "type": "page"
+  },
+  "react": {
+    "title": "React",
+    "type": "page"
+  },
+  "browser": {
+    "title": "Browser",
+    "type": "page"
+  },
+  "network": {
+    "title": "Network",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
